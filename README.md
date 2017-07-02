@@ -47,5 +47,4 @@ celery -A tasks worker -l info
 celery beat -A tasks
 ```
 
-
 ![screen](images/comment.png)
